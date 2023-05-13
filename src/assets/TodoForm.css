@@ -1,0 +1,14 @@
+.todo-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    
+}
+.checkBox{
+    display: flex;
+    align-items: center;
+}
+.completed{
+    text-decoration: line-through;
+}
